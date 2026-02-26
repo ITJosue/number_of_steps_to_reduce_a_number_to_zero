@@ -2,8 +2,8 @@
 
 A cross-platform application built to visualize the **Prefix Sum** algorithm. Originally designed as a LeetCode problem solver, this project utilizes Flutter and FlutterFlow to provide a clean, interactive UI for calculating and displaying the cumulative running sum of a one-dimensional array.
 
-<img src="https://github.com/user-attachments/assets/e4cb5eeb-79b9-4d8b-a9b2-dbfcdb965b8d">
-<img src="https://github.com/user-attachments/assets/66e57677-62eb-434c-afe3-88799046e644">
+<img src="https://github.com/user-attachments/assets/e4cb5eeb-79b9-4d8b-a9b2-dbfcdb965b8d" alt="Running Sum app table view screenshot">
+<img src="https://github.com/user-attachments/assets/66e57677-62eb-434c-afe3-88799046e644" alt="Running Sum app interface screenshot">
 
 **Try it out here:** <a href="https://itjosue.github.io/FlutterFlow-Leetcode-Running-Sum-of-1D-Array/">Live Demo</a>
 
@@ -46,8 +46,8 @@ To run this project locally, ensure you have the <a href="https://flutter.dev/do
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/ITJosue/FlutterFlow-Leetcode-Running-Sum-of-1D-Array.git
-cd FlutterFlow-Leetcode-Running-Sum-of-1D-Array
+git clone https://github.com/ITJosue/number_of_steps_to_reduce_a_number_to_zero.git
+cd number_of_steps_to_reduce_a_number_to_zero
 ```
 
 **2. Fetch dependencies:**
